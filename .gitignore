@@ -1,0 +1,27 @@
+# Files
+*~
+*.swp
+*.swo
+
+
+# Directories:
+node_modules
+/lib/vendor/*
+/tests
+
+# Packages
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+build
+.grunt

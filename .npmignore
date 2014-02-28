@@ -1,0 +1,5 @@
+.gitignore
+.git
+.bowerrc
+bower.json
+tests

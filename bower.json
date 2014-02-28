@@ -1,0 +1,16 @@
+{
+  "name": "node-webkit-fdialogs",
+  "version": "0.0.1",
+  "authors": [
+    "Oscar Gentilezza <oscar@gentisoft.com>"
+  ],
+  "description": "Manage file dialogs for node-webkit",
+  "license": "GPL2",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "/lib/vendor",
+    "tests"
+  ]
+}
