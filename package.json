@@ -1,6 +1,10 @@
 {
   "name": "node-webkit-fdialogs",
   "version": "0.1.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exos/node-webkit-fdialogs.git"
+  },
   "authors": [
     "Oscar Gentilezza <oscar@gentisoft.com>"
   ],
