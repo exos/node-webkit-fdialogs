@@ -1,7 +1,12 @@
+/** 
+ * A module for manage file dialogs in node-webkit.
+ * @module FDialogs
+ */
+
+'use strict';
 
 var FDialog = require('./lib/fdialog');
 
-/** @module Fdialogs */
 module.exports = {
 
     FDialog: FDialog,
