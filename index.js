@@ -53,7 +53,7 @@ module.exports = {
             defaultSavePath: defaultPath
         });
 
-        fd.saveFile(cb);
+        fd.saveFile(data, cb);
 
     }  
 
